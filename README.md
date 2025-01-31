@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I am a researcher fellow at University of Trento, Italy.
-- I am passionate about optical communication systems, machine learning, digital twins and IoT.
+- I am a Research Fellow at the University of Trento, Italy.
+- I am passionate about optical communication systems, machine learning algorithms, digital twins and IoT.
   
 <!--
 **devigili/devigili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
