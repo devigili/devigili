@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile 👋
 
 - I am a Research Fellow at the University of Trento, Italy.
 - I am passionate about optical communication systems, machine learning algorithms, digital twins and IoT.
